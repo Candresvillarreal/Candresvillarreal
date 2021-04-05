@@ -4,7 +4,6 @@
 - 📫 Puedes contactar conmigo a través de:
   - candresvillarreal@gmail.com
   - https://www.linkedin.com/in/carlos-andr%C3%A9s-villarreal-6938bb1b9/
-      
    
       
 
