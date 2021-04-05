@@ -3,7 +3,7 @@
 - 🌱Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma
 - 📫 Puedes contactar conmigo a través de:
   - candresvillarreal@gmail.com
-  - linkedin 
+  - https://www.linkedin.com/in/carlos-andr%C3%A9s-villarreal-6938bb1b9/
       
    
       
