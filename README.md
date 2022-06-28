@@ -1,6 +1,6 @@
-- 👋Hola, soy Carlos Andrés Villarreal
-- 👀 Estoy interesado en Logística, Programación, Desarrollo, Bases de datos
-- 🌱Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma
+- 👋 Hola, soy Carlos Andrés Villarreal, Desarrollador de Aplicaciones Multiplataforma
+- 👀 Tengo conocimientos de Java, Python, PHP, HTML, CSS, SQL.
+- 🌱 Tengo conocimientos de los Frameworks Spring, Flask y Django
 - 📫 Puedes contactar conmigo a través de:
   - candresvillarreal@gmail.com
   - https://www.linkedin.com/in/carlos-andr%C3%A9s-villarreal-6938bb1b9/
